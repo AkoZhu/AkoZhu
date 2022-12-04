@@ -2,7 +2,7 @@
 <ul>
   <li>🌱 I’m currently learning <b>Spring framework, Golang</b>
   <li>👀 I’m interested in <b>full-stack development</b>.
-  <li>🔭 I’m currently studying in UPenn. @CIS, @ESE.
+  <li>🔭 I’m currently studying in <b>UPenn</b>. @CIS, @ESE.
 </ul>
 
 <p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=akozhu&show_icons=true&theme=tokyonight&locale=en"  alt="akozhu" /></p>
