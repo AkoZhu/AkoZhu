@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm AkoZhu</h1>
+- 🌱 I’m currently learning **Spring framework, Golang**,
+- 👀 I’m interested in **full-stack development**.
+- 🔭 I’m currently working on a **Social APP** with Express.js + React.js.
+
+<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=akozhu&show_icons=true&theme=tokyonight&locale=en"  alt="akozhu" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akozhu&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="akozhu" /></p>
+
+
 
 <!--
 **AkoZhu/AkoZhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
