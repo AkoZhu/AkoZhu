@@ -7,7 +7,7 @@
 
 <p>&nbsp;<img align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akozhu&show_icons=true&theme=tokyonight&locale=en"  alt="akozhu" /></p>
 
-<p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akozhu&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="akozhu" width=400, high=150/></p>
+<p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=akozhu&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="akozhu" width=400, high=150/></p>
 
 
 
