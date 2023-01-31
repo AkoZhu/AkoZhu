@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm AkoZhu</h1>
 <ul>
-  <li>🌱 I’m currently learning <b>Spring framework, Golang, Web System building</b>
+  <li>🌱 I’m currently learning <b>Spring framework, Spark framework, Golang, Web System building</b>
   <li>👀 I’m interested in <b>full-stack development</b>.
   <li>🔭 I’m currently studying in <b>UPenn</b>. @CIS, @ESE.
 </ul>
