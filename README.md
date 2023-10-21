@@ -11,8 +11,14 @@
 <p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=akozhu&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="akozhu" width=400, high=150/></p>
 -->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--START_SECTION:SHOW_DAYS_OF_WEEK-->
+<!--END_SECTION:SHOW_DAYS_OF_WEEK-->
+
+<!--START_SECTION:SHOW_LANGUAGE-->
+<!--END_SECTION:SHOW_LANGUAGE-->
+
+<!--START_SECTION:SHOW_EDITORS-->
+<!--END_SECTION:SHOW_EDITORS-->
 
 <!--
 **AkoZhu/AkoZhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
