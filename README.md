@@ -45,14 +45,8 @@
 -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=AkoZhu&theme=shadow-blue&hide_longest_streak=true)](https://git.io/streak-stats)
 
-<!--START_SECTION:SHOW_DAYS_OF_WEEK-->
-<!--END_SECTION:SHOW_DAYS_OF_WEEK-->
-
-<!--START_SECTION:SHOW_LANGUAGE-->
-<!--END_SECTION:SHOW_LANGUAGE-->
-
-<!--START_SECTION:SHOW_EDITORS-->
-<!--END_SECTION:SHOW_EDITORS-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 <p>&nbsp;<img align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akozhu&show_icons=true&theme=tokyonight&locale=en"  alt="akozhu" /></p>
