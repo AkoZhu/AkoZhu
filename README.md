@@ -40,14 +40,15 @@
 [<img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white" height="30em" align="center" alt="Go Logo" title="Go Logo"/>](https://go.dev/)
 
 ## 📊 Stats
-<!--
-![AkoZhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkoZhu&theme=shallow_blue&show_icons=true)
--->
 [![GitHub Streak](https://streak-stats.demolab.com?user=AkoZhu&theme=shadow-blue&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+
+<!--
+![AkoZhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkoZhu&theme=shallow_blue&show_icons=true)
+-->
 <!--
 <p>&nbsp;<img align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akozhu&show_icons=true&theme=tokyonight&locale=en"  alt="akozhu" /></p>
 
