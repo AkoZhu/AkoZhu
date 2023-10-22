@@ -40,8 +40,9 @@
 [<img src="https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white" height="30em" align="center" alt="Go Logo" title="Go Logo"/>](https://go.dev/)
 
 ## 📊 Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=AkoZhu&theme=shadow-blue&hide_longest_streak=true)](https://git.io/streak-stats)
+![GitHub Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkoZhu&theme=nord_bright)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=AkoZhu&theme=shadow-blue&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
 
