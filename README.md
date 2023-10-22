@@ -8,8 +8,8 @@
 <div style="display: flex; align-items: start;">
     <ul>
         <li>🌱 I'm doing SW/DevOps things!</li>
-        <li>👀 I’m interested in **Web development** and open-source project.</li>
-        <li>🔭 I’m currently studying in **UPenn**. @CIS, @ESE.</li>
+        <li>👀 I’m interested in <b>Web development</b> and open-source project.</li>
+        <li>🔭 I’m currently studying in <b>UPenn</b>. @CIS, @ESE.</li>
         <li>🍒 Fans of Anime and J-Pop.</li>
     </ul>
     <img src="./asset/littleCat.gif" alt="Description of Image" style="margin-left: 10px;" align="right">
