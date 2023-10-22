@@ -5,12 +5,17 @@
 
 ## 📖 About Me
 > About who I am. 
-- 🌱 I'm doing SW/DevOps things!
-- 👀 I’m interested in **Web development** and open-source project.
-- 🔭 I’m currently studying in **UPenn**. @CIS, @ESE.
-- 🍒 Fans of Anime and J-Pop.
+<div style="display: flex; align-items: start;">
+    <ul>
+        <li>🌱 I'm doing SW/DevOps things!</li>
+        <li>👀 I’m interested in **Web development** and open-source project.</li>
+        <li>🔭 I’m currently studying in **UPenn**. @CIS, @ESE.</li>
+        <li>🍒 Fans of Anime and J-Pop.</li>
+    </ul>
+    <img src="./asset/littleCat.gif" alt="Description of Image" style="margin-left: 10px;" align="right">
+</div>
 
-## 🐱 Tech Stack
+## ⚙️ Tech Stack
 > Tools that I love to use.
 
 [<img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" height="30em" align="center" alt="Spring Logo" title="Spring Logo"/>](https://spring.io/)
