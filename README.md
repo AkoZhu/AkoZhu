@@ -1,5 +1,5 @@
 
-# Hi 👋, I'm AkoZhu
+# Hi 👋, I'm Ako
 [![](https://visitor-badge.laobi.icu/badge?page_id=AkoZhu.AkoZhu)](https://visitor-badge.laobi.icu/badge?page_id=AkoZhu.AkoZhu)
 [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:zxuanbiao@gmail.com)
 
