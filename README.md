@@ -50,7 +50,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=AkoZhu&theme=shadow-blue&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2050%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -115,7 +115,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/12/2023 01:23:01 UTC
+ Last Updated on 16/12/2023 01:20:56 UTC
 <!--END_SECTION:waka-->
 
 
