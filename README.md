@@ -89,15 +89,13 @@ Sunday                   252 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     27 mins             ████████████████████████░   95.53 % 
-Docker                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -113,7 +111,7 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2023 01:18:41 UTC
+ Last Updated on 28/12/2023 01:19:01 UTC
 <!--END_SECTION:waka-->
 
 
