@@ -50,7 +50,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=AkoZhu&theme=shadow-blue&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2010%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -89,15 +89,15 @@ Sunday                   252 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     50 mins             █████████████████████████   100.00 % 
+Java                     1 hr 24 mins        █████████████████████████   100.00 % 
 Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-IntelliJ                 50 mins             █████████████████████████   100.00 % 
+IntelliJ                 1 hr 24 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      50 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 24 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -113,7 +113,7 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 12/01/2024 01:23:26 UTC
+ Last Updated on 13/01/2024 01:22:26 UTC
 <!--END_SECTION:waka-->
 
 
