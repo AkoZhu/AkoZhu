@@ -50,7 +50,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=AkoZhu&theme=shadow-blue&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-93%20hrs%2046%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -116,7 +116,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2024 01:20:59 UTC
+ Last Updated on 02/02/2024 01:16:42 UTC
 <!--END_SECTION:waka-->
 
 
