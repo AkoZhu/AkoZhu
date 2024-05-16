@@ -29,6 +29,7 @@
 ## 🖥️ Projects
 > Some previous projects
 <div>
+    <p><b>Distributed System</b></p>
     <ul>
         <li><b>PennCloud System</b>: Developed a cloud service that supports large file storage services and email services. This project included building a Key-Value Store to handle large-scale data with features for replication and recovery.</li>
         <li><b>Web Search Engine</b>: Created a comprehensive search engine with Java, featuring a Crawler, Indexer, Ranker, and Frontend components, deployed on AWS EC2. Achieved 1 millison page crawling, efficient data processing and around 2-second response time per query.</li>
