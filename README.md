@@ -27,7 +27,7 @@
 </div>
 
 ## 🖥️ Projects
-> Previous projects
+> Some previous projects
 <div>
     <ul>
         <li><b>PennCloud System</b>: Developed a cloud service that supports large file storage services and email services. This project included building a Key-Value Store to handle large-scale data with features for replication and recovery.</li>
