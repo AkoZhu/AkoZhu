@@ -1,4 +1,10 @@
 
+<div style="text-align: center; margin-left: 20px;">
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Readme Quotes">
+    </a>
+</div>
+
 # Hi 👋, I'm Ako
 [![](https://visitor-badge.laobi.icu/badge?page_id=AkoZhu.AkoZhu)](https://visitor-badge.laobi.icu/badge?page_id=AkoZhu.AkoZhu)
 [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:zxuanbiao@gmail.com)
