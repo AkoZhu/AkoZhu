@@ -6,13 +6,29 @@
 ## 📖 About Me
 > About who I am. 
 <div style="display: flex; align-items: start;">
+    <div>
+        <ul>
+            <li>🌱 I'm a passionate software engineer/DevOps cloud engineer</li>
+            <li>👀 I’m interested in <b>Distributed Systems</b> and <b>Backend Development</b>. I enjoy tackling complex problems and building scalable, efficient systems.</li>
+            <li>🔭 I’m currently studying in <b>UPenn</b>. @CIS, @ESE.</li>
+            <li>🍒 Fans of Anime and J-Pop.</li>
+            <li>🍎 I am currently working on the <b>Bustub Database Management System</b>.</li>
+        </ul>
+    </div>
+    <div style="margin-left: 20px;">
+        <img src="./asset/littleCat.gif" alt="Description of Image" style="max-width: 100px;">
+    </div>
+</div>
+
+## 🖥️ Projects
+> Previous projects
+<div>
     <ul>
-        <li>🌱 I'm doing SW/DevOps things!</li>
-        <li>👀 I’m interested in <b>Web development</b> and open-source project.</li>
-        <li>🔭 I’m currently studying in <b>UPenn</b>. @CIS, @ESE.</li>
-        <li>🍒 Fans of Anime and J-Pop.</li>
+        <li><b>PennCloud System</b>: Developed a cloud service that supports large file storage services and email services. This project included building a Key-Value Store to handle large-scale data with features for replication and recovery.</li>
+        <li><b>Web Search Engine</b>: Created a comprehensive search engine with Java, featuring a Crawler, Indexer, Ranker, and Frontend components, deployed on AWS EC2. Achieved 1 millison page crawling, efficient data processing and around 2-second response time per query.</li>
+        <li><b>Email/Chat Server</b>: Designed and developed an email service supporting SMTP/POP3 and a high-performance chat service using C++ on Linux VM. Implemented multi-threading, event-driven architecture, and advanced multicast communication protocols.</li>
+        <li><b>PennSearch</b>: Built a distributed file storage and search system using C++ and NS-3. Integrated dynamic routing and consistent hashing to improve efficiency and scalability.</li>
     </ul>
-    <img src="./asset/littleCat.gif" alt="Description of Image" style="margin-left: 10px;" align="right">
 </div>
 
 ## ⚙️ Tech Stack
