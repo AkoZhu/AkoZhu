@@ -8,6 +8,7 @@
 # Hi 👋, I'm Ako
 [![](https://visitor-badge.laobi.icu/badge?page_id=AkoZhu.AkoZhu)](https://visitor-badge.laobi.icu/badge?page_id=AkoZhu.AkoZhu)
 [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:zxuanbiao@gmail.com)
+![Code Time](http://img.shields.io/badge/Code%20Time-231%20hrs%2057%20mins-blue)
 
 ## 📖 About Me
 > About who I am. 
@@ -73,7 +74,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=AkoZhu&theme=shadow-blue&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-231%20hrs%2057%20mins-blue)
 
 **🐱 My GitHub Data** 
 
