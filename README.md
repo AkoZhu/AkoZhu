@@ -20,6 +20,7 @@
             <li>🔭 I’m currently studying in <b>UPenn</b>. @CIS, @ESE.</li>
             <li>🍒 Fans of Anime and J-Pop.</li>
             <li>🍎 I am currently working on the <b>Bustub Database Management System</b>.</li>
+            <li>🍌 <a href='https://akozhu.github.io/portfolio/'>Personal Website</a> is under construction.....</li>
         </ul>
     </div>
     <div style="margin-left: 20px;">
