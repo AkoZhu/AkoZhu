@@ -19,8 +19,6 @@
             <li>👀 I’m interested in <b>Distributed Systems</b> and <b>Backend Development</b>. I enjoy tackling complex problems and building scalable, efficient systems.</li>
             <li>🔭 I’m currently studying in <b>UPenn</b>. @CIS, @ESE.</li>
             <li>🍒 Fans of Anime and J-Pop.</li>
-            <li>🍎 I am currently working on the <b>Bustub Database Management System</b>.</li>
-            <li>🍌 <a href='https://akozhu.github.io/portfolio/'>Personal Website</a> is under construction.....</li>
         </ul>
     </div>
     <div style="margin-left: 20px;">
@@ -29,7 +27,8 @@
 </div>
 
 ## 🖥️ Projects
-> Some previous projects
+> Some previous projects and current projects
+### ✨ Done
 <div>
     <p><b>Distributed System</b></p>
     <ul>
@@ -40,7 +39,14 @@
     </ul>
 </div>
 
-## ⚙️ Tech Stack
+### 🚀 Currently Working on
+<ul>
+    <li>🍎 <b>Bustub Database Management System</b>: A BusTub Relational Database Management System in CMU.</li>
+    <li>🍌 <b><a href='https://akozhu.github.io/portfolio/'>Personal Website</a></b>: my first personal website!</li>
+</ul>
+
+
+## 💻 Tech Stack
 > Tools that I love to use.
 
 [<img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white" height="30em" align="center" alt="Spring Logo" title="Spring Logo"/>](https://spring.io/)
