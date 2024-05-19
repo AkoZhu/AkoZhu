@@ -32,17 +32,17 @@
 <div>
     <p><b>Distributed System</b></p>
     <ul>
-        <li><a href='https://akozhu.github.io/portfolio/penn-cloud/'><b>PennCloud System</b></a>: Developed a cloud service that supports large file storage services and email services. This project included building a Key-Value Store to handle large-scale data with features for replication and recovery.</li>
-        <li><a href='https://akozhu.github.io/portfolio/distributed-search-engine/'><b>Cloud-based Web Search Engine</b></a>: Created a comprehensive search engine with Java, featuring a Crawler, Indexer, Ranker, and Frontend components, deployed on AWS EC2. Achieved 1 millison page crawling, efficient data processing and around 2-second response time per query.</li>
-        <li><a href='http://akozhu.github.io/portfolio/webmail-chat-server/'><b>Email/Chat Server</b></a>: Designed and developed an email service supporting SMTP/POP3 and a high-performance chat service using C++ on Linux VM. Implemented multi-threading, event-driven architecture, and advanced multicast communication protocols.</li>
-        <li><a href='http://akozhu.github.io/portfolio/penn-search/'><b>PennSearch</b></a>: Built a distributed file storage and search system using C++ and NS-3. Integrated dynamic routing and consistent hashing to improve efficiency and scalability.</li>
+        <li><a href='https://profile.xuanbiao.me/portfolio/penn-cloud/'><b>PennCloud System</b></a>: Developed a cloud service that supports large file storage services and email services. This project included building a Key-Value Store to handle large-scale data with features for replication and recovery.</li>
+        <li><a href='https://profile.xuanbiao.me/portfolio/distributed-search-engine/'><b>Cloud-based Web Search Engine</b></a>: Created a comprehensive search engine with Java, featuring a Crawler, Indexer, Ranker, and Frontend components, deployed on AWS EC2. Achieved 1 millison page crawling, efficient data processing and around 2-second response time per query.</li>
+        <li><a href='https://profile.xuanbiao.me/portfolio/webmail-chat-server/'><b>Email/Chat Server</b></a>: Designed and developed an email service supporting SMTP/POP3 and a high-performance chat service using C++ on Linux VM. Implemented multi-threading, event-driven architecture, and advanced multicast communication protocols.</li>
+        <li><a href='https://profile.xuanbiao.me/portfolio/penn-search/'><b>PennSearch</b></a>: Built a distributed file storage and search system using C++ and NS-3. Integrated dynamic routing and consistent hashing to improve efficiency and scalability.</li>
     </ul>
 </div>
 
 ### 🚀 Currently Working on
 <ul>
     <li>🍎 <b>Bustub Database Management System</b>: A BusTub Relational Database Management System in CMU.</li>
-    <li>🍌 <b><a href='https://akozhu.github.io/portfolio/'>Personal Website</a></b>: my first personal website!</li>
+    <li>🍌 <b><a href='https://profile.xuanbiao.me'>Personal Website</a></b>: my first personal website!</li>
 </ul>
 
 
