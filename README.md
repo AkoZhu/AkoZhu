@@ -40,7 +40,7 @@
     <p><b>Others</b></p>
     <ul>
         <li>🍌 <b><a href='https://profile.xuanbiao.me'>Personal Website</a></b>: my first personal website!</li>
-        <li>🥑 <b>minigrad</b>: A tiny scalar-valued autograd engine, mimicking PyTorch.</li>
+        <li>🥑 <b>Minigrad</b>: A tiny scalar-valued autograd engine, mimicking PyTorch.</li>
     </ul>
 </div>
 
