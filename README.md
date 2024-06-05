@@ -126,14 +126,13 @@ Sunday                   1067 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      37 mins             ██████████████░░░░░░░░░░░   56.34 % 
-C                        28 mins             ███████████░░░░░░░░░░░░░░   43.66 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 5 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -149,7 +148,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/06/2024 01:26:04 UTC
+ Last Updated on 05/06/2024 01:25:52 UTC
 <!--END_SECTION:waka-->
 
 
