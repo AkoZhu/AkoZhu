@@ -87,13 +87,11 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=AkoZhu&theme=shadow-blue&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%204%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 192.2 kB Used in GitHub's Storage 
- > 
-> 🏆 496 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -126,14 +124,14 @@ Sunday                   1067 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     24 mins             ████████████████████░░░░░   81.58 % 
-Other                    5 mins              █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+YAML                     1 hr 21 mins        ████████████████░░░░░░░░░   63.84 % 
+Other                    46 mins             █████████░░░░░░░░░░░░░░░░   36.16 % 
 
 🔥 Editors: 
-VS Code                  30 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 8 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      30 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -149,7 +147,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2024 01:25:39 UTC
+ Last Updated on 07/06/2024 01:27:48 UTC
 <!--END_SECTION:waka-->
 
 
