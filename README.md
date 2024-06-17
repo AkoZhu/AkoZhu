@@ -87,6 +87,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=AkoZhu&theme=shadow-blue&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2055%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 192.6 kB Used in GitHub's Storage 
@@ -148,7 +150,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2024 01:38:58 UTC
+ Last Updated on 17/06/2024 01:36:10 UTC
 <!--END_SECTION:waka-->
 
 
