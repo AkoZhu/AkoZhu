@@ -37,10 +37,14 @@
         <li><a href='https://profile.xuanbiao.me/portfolio/webmail-chat-server/'><b>Email/Chat Server</b></a>: Designed and developed an email service supporting SMTP/POP3 and a high-performance chat service using C++ on Linux VM. Implemented multi-threading, event-driven architecture, and advanced multicast communication protocols.</li>
         <li><a href='https://profile.xuanbiao.me/portfolio/penn-search/'><b>PennSearch</b></a>: Built a distributed file storage and search system using C++ and NS-3. Integrated dynamic routing and consistent hashing to improve efficiency and scalability.</li>
     </ul>
+    <p><b>Large Language Model</b></p>
+    <ul>
+        <li>🥑<b><a href='https://github.com/AkoZhu/minigrad'>Minigrad</a></b>: A tiny scalar-valued autograd engine supporting forward and backward propagation, mimicking PyTorch.</li>
+        <li>🍊<b><a href='https://github.com/AkoZhu/nanogpt'>NanoGpt</a></b>: Implemented and train the 124M parameters GPT-2 model from scratch and achieved better result than OpenAI. (Inspired by Andrej)</li>
+    </ul>
     <p><b>Others</b></p>
     <ul>
         <li>🍌 <b><a href='https://profile.xuanbiao.me'>Personal Website</a></b>: my first personal website!</li>
-        <li>🥑 <b>Minigrad</b>: A tiny scalar-valued autograd engine, mimicking PyTorch.</li>
     </ul>
 </div>
 
@@ -48,7 +52,7 @@
 <ul>
     <li>🍎 <b>Bustub Database Management System</b>: A BusTub Relational Database Management System in CMU.</li>
     <li>🍌 <s><b><a href='https://profile.xuanbiao.me'>Personal Website</a></b>: my first personal website!</li></s>
-    <li>🚁 <b>LLM training and GPT-2</b>: Learning from the <a href='https://github.com/karpathy/llm.c'>repo</a></li>
+    <li>🚁 <s><b>LLM training and GPT-2</b>: Learning from the <a href='https://github.com/karpathy/llm.c'>repo</a></li></s>
 </ul>
 
 
