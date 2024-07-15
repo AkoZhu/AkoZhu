@@ -130,13 +130,15 @@ Sunday                   1073 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 1 min          ███████████████████████░░   92.43 % 
+YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -152,7 +154,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/07/2024 01:42:50 UTC
+ Last Updated on 15/07/2024 01:38:21 UTC
 <!--END_SECTION:waka-->
 
 
