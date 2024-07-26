@@ -91,6 +91,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=AkoZhu&theme=shadow-blue&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%2018%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 193.5 kB Used in GitHub's Storage 
@@ -153,7 +155,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2024 01:36:14 UTC
+ Last Updated on 26/07/2024 01:36:05 UTC
 <!--END_SECTION:waka-->
 
 
