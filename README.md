@@ -16,7 +16,7 @@
     <div>
         <ul>
             <li>🌱 I'm a passionate software engineer/DevOps cloud engineer</li>
-            <li>👀 I’m interested in <b>Distributed Systems</b> and <b>Backend Development</b>. I enjoy tackling complex problems and building scalable, efficient systems.</li>
+            <li>👀 I’m interested in <b>Distributed Systems</b>, <b>Backend Development</b>, and <b>Large Language Model</b>. I enjoy tackling complex problems and building scalable, efficient systems.</li>
             <li>🔭 I’m currently studying in <b>UPenn</b>. @CIS, @ESE.</li>
             <li>🍒 Fans of Anime and J-Pop.</li>
         </ul>
