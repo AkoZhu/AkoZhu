@@ -92,6 +92,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=AkoZhu&theme=shadow-blue&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-260%20hrs%2039%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 202.5 kB Used in GitHub's Storage 
@@ -151,7 +153,7 @@ Makefile                 3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2024 02:12:50 UTC
+ Last Updated on 02/12/2024 02:00:41 UTC
 <!--END_SECTION:waka-->
 
 
