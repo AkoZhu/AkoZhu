@@ -92,8 +92,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=AkoZhu&theme=shadow-blue&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-260%20hrs%2039%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 206.9 kB Used in GitHub's Storage 
@@ -106,40 +104,6 @@
  > 
 > 🔑 21 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                641 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-🌆 Daytime                3053 commits        ████████████░░░░░░░░░░░░░   46.24 % 
-🌃 Evening                2403 commits        █████████░░░░░░░░░░░░░░░░   36.39 % 
-🌙 Night                  506 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   1005 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Tuesday                  732 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Wednesday                699 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Thursday                 487 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-Friday                   1017 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Saturday                 1601 commits        ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
-Sunday                   1062 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -153,7 +117,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2025 01:51:31 UTC
+ Last Updated on 28/09/2025 02:05:43 UTC
 <!--END_SECTION:waka-->
 
 
