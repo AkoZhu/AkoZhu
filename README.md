@@ -92,8 +92,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=AkoZhu&theme=shadow-blue&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2021%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 207.1 kB Used in GitHub's Storage 
@@ -149,17 +147,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Jupyter Notebook         4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-C++                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Makefile                 3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+C++                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Jupyter Notebook         4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Makefile                 3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
 
 
- Last Updated on 28/07/2026 03:22:48 UTC
+ Last Updated on 29/07/2026 03:25:08 UTC
 <!--END_SECTION:waka-->
 
 
