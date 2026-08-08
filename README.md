@@ -92,6 +92,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=AkoZhu&theme=shadow-blue&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2021%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 207.1 kB Used in GitHub's Storage 
@@ -157,7 +159,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 03:11:33 UTC
+ Last Updated on 08/08/2026 02:07:42 UTC
 <!--END_SECTION:waka-->
 
 
